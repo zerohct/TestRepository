@@ -1,0 +1,63 @@
+D:\Wind form\BaLop\GUI\bin\Debug\GUI.exe.config
+D:\Wind form\BaLop\GUI\bin\Debug\GUI.exe
+D:\Wind form\BaLop\GUI\bin\Debug\GUI.pdb
+D:\Wind form\BaLop\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Wind form\BaLop\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Wind form\BaLop\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Wind form\BaLop\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Wind form\BaLop\GUI\obj\Debug\GUI.exe
+D:\Wind form\BaLop\GUI\obj\Debug\GUI.pdb
+D:\Wind form\BaLop\GUI\bin\Debug\BUS.dll
+D:\Wind form\BaLop\GUI\bin\Debug\DAL.dll
+D:\Wind form\BaLop\GUI\bin\Debug\EntityFramework.dll
+D:\Wind form\BaLop\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wind form\BaLop\GUI\bin\Debug\BUS.pdb
+D:\Wind form\BaLop\GUI\bin\Debug\BUS.dll.config
+D:\Wind form\BaLop\GUI\bin\Debug\DAL.pdb
+D:\Wind form\BaLop\GUI\bin\Debug\DAL.dll.config
+D:\Wind form\BaLop\GUI\bin\Debug\EntityFramework.xml
+D:\Wind form\BaLop\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wind form\BaLop\GUI\obj\Debug\GUI.Form1.resources
+D:\Wind form\BaLop\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\obj\Debug\GUI.Form1.resources
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\GUI.exe.config
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\GUI.exe
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\GUI.pdb
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\BUS.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\DAL.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\EntityFramework.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\BUS.pdb
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\BUS.dll.config
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\DAL.pdb
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\DAL.dll.config
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\EntityFramework.xml
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\obj\Debug\GUI.exe
+D:\Download\BaLop-20231003T125755Z-001\BaLop\GUI\obj\Debug\GUI.pdb
+D:\Winform\BaLop\GUI\bin\Debug\GUI.exe.config
+D:\Winform\BaLop\GUI\bin\Debug\GUI.exe
+D:\Winform\BaLop\GUI\bin\Debug\GUI.pdb
+D:\Winform\BaLop\GUI\bin\Debug\BUS.dll
+D:\Winform\BaLop\GUI\bin\Debug\DAL.dll
+D:\Winform\BaLop\GUI\bin\Debug\EntityFramework.dll
+D:\Winform\BaLop\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Winform\BaLop\GUI\bin\Debug\BUS.pdb
+D:\Winform\BaLop\GUI\bin\Debug\BUS.dll.config
+D:\Winform\BaLop\GUI\bin\Debug\DAL.pdb
+D:\Winform\BaLop\GUI\bin\Debug\DAL.dll.config
+D:\Winform\BaLop\GUI\bin\Debug\EntityFramework.xml
+D:\Winform\BaLop\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Winform\BaLop\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Winform\BaLop\GUI\obj\Debug\GUI.Form1.resources
+D:\Winform\BaLop\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Winform\BaLop\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Winform\BaLop\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Winform\BaLop\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Winform\BaLop\GUI\obj\Debug\GUI.exe
+D:\Winform\BaLop\GUI\obj\Debug\GUI.pdb

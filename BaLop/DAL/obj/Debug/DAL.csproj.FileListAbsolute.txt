@@ -1,0 +1,36 @@
+D:\Wind form\BaLop\DAL\bin\Debug\DAL.dll.config
+D:\Wind form\BaLop\DAL\bin\Debug\DAL.dll
+D:\Wind form\BaLop\DAL\bin\Debug\DAL.pdb
+D:\Wind form\BaLop\DAL\bin\Debug\EntityFramework.dll
+D:\Wind form\BaLop\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wind form\BaLop\DAL\bin\Debug\EntityFramework.xml
+D:\Wind form\BaLop\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wind form\BaLop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Wind form\BaLop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Wind form\BaLop\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Wind form\BaLop\DAL\obj\Debug\DAL.dll
+D:\Wind form\BaLop\DAL\obj\Debug\DAL.pdb
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\bin\Debug\DAL.dll.config
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\bin\Debug\DAL.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\bin\Debug\DAL.pdb
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\bin\Debug\EntityFramework.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\bin\Debug\EntityFramework.xml
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\obj\Debug\DAL.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\DAL\obj\Debug\DAL.pdb
+D:\Winform\BaLop\DAL\bin\Debug\DAL.dll.config
+D:\Winform\BaLop\DAL\bin\Debug\DAL.dll
+D:\Winform\BaLop\DAL\bin\Debug\DAL.pdb
+D:\Winform\BaLop\DAL\bin\Debug\EntityFramework.dll
+D:\Winform\BaLop\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Winform\BaLop\DAL\bin\Debug\EntityFramework.xml
+D:\Winform\BaLop\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Winform\BaLop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Winform\BaLop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Winform\BaLop\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Winform\BaLop\DAL\obj\Debug\DAL.dll
+D:\Winform\BaLop\DAL\obj\Debug\DAL.pdb

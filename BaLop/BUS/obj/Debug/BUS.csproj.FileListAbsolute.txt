@@ -1,0 +1,45 @@
+D:\Wind form\BaLop\BUS\bin\Debug\BUS.dll.config
+D:\Wind form\BaLop\BUS\bin\Debug\BUS.dll
+D:\Wind form\BaLop\BUS\bin\Debug\BUS.pdb
+D:\Wind form\BaLop\BUS\bin\Debug\DAL.dll
+D:\Wind form\BaLop\BUS\bin\Debug\EntityFramework.dll
+D:\Wind form\BaLop\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Wind form\BaLop\BUS\bin\Debug\DAL.pdb
+D:\Wind form\BaLop\BUS\bin\Debug\DAL.dll.config
+D:\Wind form\BaLop\BUS\bin\Debug\EntityFramework.xml
+D:\Wind form\BaLop\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Wind form\BaLop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Wind form\BaLop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Wind form\BaLop\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Wind form\BaLop\BUS\obj\Debug\BUS.dll
+D:\Wind form\BaLop\BUS\obj\Debug\BUS.pdb
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\bin\Debug\BUS.dll.config
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\bin\Debug\BUS.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\bin\Debug\BUS.pdb
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\bin\Debug\DAL.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\bin\Debug\EntityFramework.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\bin\Debug\DAL.pdb
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\bin\Debug\DAL.dll.config
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\bin\Debug\EntityFramework.xml
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\obj\Debug\BUS.dll
+D:\Download\BaLop-20231003T125755Z-001\BaLop\BUS\obj\Debug\BUS.pdb
+D:\Winform\BaLop\BUS\bin\Debug\BUS.dll.config
+D:\Winform\BaLop\BUS\bin\Debug\BUS.dll
+D:\Winform\BaLop\BUS\bin\Debug\BUS.pdb
+D:\Winform\BaLop\BUS\bin\Debug\DAL.dll
+D:\Winform\BaLop\BUS\bin\Debug\EntityFramework.dll
+D:\Winform\BaLop\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Winform\BaLop\BUS\bin\Debug\DAL.pdb
+D:\Winform\BaLop\BUS\bin\Debug\DAL.dll.config
+D:\Winform\BaLop\BUS\bin\Debug\EntityFramework.xml
+D:\Winform\BaLop\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Winform\BaLop\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Winform\BaLop\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Winform\BaLop\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Winform\BaLop\BUS\obj\Debug\BUS.dll
+D:\Winform\BaLop\BUS\obj\Debug\BUS.pdb
